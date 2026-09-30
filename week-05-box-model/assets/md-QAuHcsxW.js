@@ -1,0 +1,10 @@
+import{C as e,Ct as t,D as n,M as r,W as i,nt as a,w as o,xt as s}from"./modules/shiki-Dt8SJYFX.js";import{v as c,y as l}from"./index-DpBmAiZg.js";import{t as u}from"./slidev/default--fpJTuIu.js";var d={__name:`week-05-box-model.md__slidev_8`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(i(),o(u,t(r(s(c)(s(v),7))),{default:a(()=>[...d[0]||=[e(`h1`,null,`Exercise 5: Crafting classified dossier cards`,-1),e(`div`,{class:`p-6 bg-stone-900 rounded border border-stone-800 mt-4`},[e(`h3`,{class:`text-amber-400 font-mono text-sm font-bold mb-3 uppercase`},`Assignment scenario`),e(`p`,{class:`text-sm text-stone-300 mb-4`},[n(` Open `),e(`code`,null,`starters/week-05/`),n(` and transform the raw subject profile markup into physical-style Classified Dossier Cards using custom web fonts, box model properties and corner positioning. `)]),e(`div`,{class:`grid grid-cols-2 gap-4 text-xs`},[e(`div`,{class:`p-3 bg-stone-950 rounded border border-stone-700`},[e(`h4`,{class:`text-stone-200 font-bold mb-2 uppercase`},`Typography and color checklist`),e(`ul`,{class:`space-y-1 text-stone-400 list-disc pl-4`},[e(`li`,null,`Import a clean font stack or Google Font (such as Public Sans or Courier Prime)`),e(`li`,null,[n(`Declare font sizing using accessible `),e(`code`,null,`rem`),n(` units`)]),e(`li`,null,[n(`Set unitless `),e(`code`,null,`line-height`),n(` on body and paragraph text`)]),e(`li`,null,`Verify color contrast meets the 4.5-to-1 standard`)])]),e(`pre`,null,[e(`code`,null,`<div class="p-3 bg-stone-950 rounded border border-stone-700">
+  <h4 class="text-stone-200 font-bold mb-2 uppercase">Box model and positioning checklist</h4>
+  <ul class="space-y-1 text-stone-400 list-disc pl-4">
+    <li>Apply the universal <code>box-sizing: border-box</code> reset</li>
+    <li>Configure card padding, borders and subtle box-shadows</li>
+    <li>Use <code>position: relative</code> on the dossier card</li>
+    <li>Position a "CLASSIFIED" or clearance badge in the corner using <code>position: absolute</code></li>
+  </ul>
+</div>
+`)])])],-1)]]),_:1},16))}};export{d as default};

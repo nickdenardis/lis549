@@ -1,0 +1,10 @@
+import{C as e,Ct as t,D as n,M as r,W as i,nt as a,w as o,xt as s}from"./modules/shiki-Dt8SJYFX.js";import{v as c,y as l}from"./index-BMzFyepU.js";import{t as u}from"./slidev/default--fpJTuIu.js";var d={__name:`week-08-responsive-css.md__slidev_8`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(i(),o(u,t(r(s(c)(s(v),7))),{default:a(()=>[...d[0]||=[e(`h1`,null,`Project Draft 1: Coursework milestone`,-1),e(`div`,{class:`p-6 bg-stone-900 rounded border border-stone-800 mt-4`},[e(`h3`,{class:`text-amber-400 font-mono text-sm font-bold mb-3 uppercase`},`Project milestone overview`),e(`p`,{class:`text-sm text-stone-300 mb-4`},[n(` Open `),e(`code`,null,`starters/week-08/`),n(` to review requirements for `),e(`strong`,null,`Project Draft 1`),n(`. This assignment synthesizes your HTML semantics, accessibility, layout and responsive design skills into a complete multi-page portal. `)]),e(`div`,{class:`grid grid-cols-2 gap-4 text-xs`},[e(`div`,{class:`p-3 bg-stone-950 rounded border border-stone-700`},[e(`h4`,{class:`text-stone-200 font-bold mb-2 uppercase`},`Technical requirements`),e(`ul`,{class:`space-y-1 text-stone-400 list-disc pl-4`},[e(`li`,null,`Valid HTML5 with semantic landmarks across all pages`),e(`li`,null,`Section 508 and WCAG 2.2 AA contrast compliance`),e(`li`,null,`Fluid media and mobile-friendly touch targets (min 44px)`),e(`li`,null,[n(`Clean mobile-first CSS architecture with `),e(`code`,null,`min-width`),n(` queries`)])])]),e(`pre`,null,[e(`code`,null,`<div class="p-3 bg-stone-950 rounded border border-stone-700">
+  <h4 class="text-stone-200 font-bold mb-2 uppercase">Evaluation criteria</h4>
+  <ul class="space-y-1 text-stone-400 list-disc pl-4">
+    <li>Document hierarchy and accessible table markup</li>
+    <li>Effective responsive behavior at 360px, 768px and 1200px</li>
+    <li>Consistent visual hierarchy, typography and color palettes</li>
+    <li>Absence of horizontal page scrollbars on mobile viewports</li>
+  </ul>
+</div>
+`)])])],-1)]]),_:1},16))}};export{d as default};

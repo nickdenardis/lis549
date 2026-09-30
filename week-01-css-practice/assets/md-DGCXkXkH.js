@@ -1,0 +1,10 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-Dk0jn0RJ.js";import{nt as c,rt as l}from"./index-D4UZe63Y.js";import{t as u}from"./slidev/default-X2TUcNWv.js";var d={__name:`week-01-css-practice.md__slidev_22`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),21))),{default:n(()=>[...d[0]||=[a(`h1`,null,`Exercise 1: Your turn to customize`,-1),a(`p`,null,`Now that you understand every rule in the starter stylesheet, make it your own!`,-1),a(`div`,{class:`p-6 bg-stone-900 rounded border border-stone-800 mt-4`},[a(`div`,{class:`grid grid-cols-2 gap-6 text-xs text-stone-300`},[a(`div`,{class:`space-y-2`},[a(`h3`,{class:`text-amber-400 font-bold uppercase font-mono`},`1. Choose your cryptid subject`),a(`ul`,{class:`list-disc pl-4 space-y-1 text-stone-400`},[a(`li`,null,`The Point Pleasant Mothman (West Virginia)`),a(`li`,null,`Sasquatch or Bigfoot (Pacific Northwest)`),a(`li`,null,`The Pacific Northwest Tree Octopus (Olympic Peninsula)`),a(`li`,null,`A regional cryptid or folkloric entity of your choice`)])]),a(`pre`,null,[a(`code`,null,`<div class="space-y-2">
+  <h3 class="text-amber-400 font-bold uppercase font-mono">2. Personalize \`style.css\`</h3>
+  <ul class="list-disc pl-4 space-y-1 text-stone-400">
+    <li>Try alternate font stacks: <code>'Courier New'</code>, <code>sans-serif</code>, or <code>Georgia</code>.</li>
+    <li>Customize colors: alter parchment backgrounds or department header accents.</li>
+    <li>Experiment with borders: dashed, double, or tinted borderlines.</li>
+    <li>Verify contrast: ensure text remains easily readable against your background.</li>
+  </ul>
+</div>
+`)])])],-1),a(`div`,{class:`mt-6 p-3 bg-stone-950 border-l-4 border-amber-500 rounded text-xs text-stone-300`},[a(`strong`,null,`Remember:`),i(` Clean semantic markup is your primary foundation. The CSS you write enhances the document's voice, but never compromises its accessibility or content hierarchy. `)],-1)]]),_:1},16))}};export{d as default};

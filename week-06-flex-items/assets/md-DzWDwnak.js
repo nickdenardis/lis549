@@ -1,0 +1,10 @@
+import{C as e,Ct as t,D as n,M as r,W as i,nt as a,w as o,xt as s}from"./modules/shiki-Dt8SJYFX.js";import{v as c,y as l}from"./index-BFETP8MB.js";import{t as u}from"./slidev/default--fpJTuIu.js";var d={__name:`week-06-flex-items.md__slidev_6`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(i(),o(u,t(r(s(c)(s(v),5))),{default:a(()=>[...d[0]||=[e(`h1`,null,`Exercise 6: The field agent gallery grid`,-1),e(`div`,{class:`p-6 bg-stone-900 rounded border border-stone-800 mt-4`},[e(`h3`,{class:`text-amber-400 font-mono text-sm font-bold mb-3 uppercase`},`Assignment scenario`),e(`p`,{class:`text-sm text-stone-300 mb-4`},[n(` Open `),e(`code`,null,`starters/week-06/`),n(` and construct the Field Agent Gallery Grid, arranging your individual dossier cards into a responsive multi-column layout with a flexbox navigation header. `)]),e(`div`,{class:`grid grid-cols-2 gap-4 text-xs`},[e(`div`,{class:`p-3 bg-stone-950 rounded border border-stone-700`},[e(`h4`,{class:`text-stone-200 font-bold mb-2 uppercase`},`Navigation bar checklist`),e(`ul`,{class:`space-y-1 text-stone-400 list-disc pl-4`},[e(`li`,null,[n(`Declare `),e(`code`,null,`display: flex`),n(` on the main header`)]),e(`li`,null,[n(`Use `),e(`code`,null,`justify-content: space-between`),n(` to position logo and links`)]),e(`li`,null,[n(`Use `),e(`code`,null,`align-items: center`),n(` for vertical alignment`)]),e(`li`,null,[n(`Style menu items in a horizontal list using `),e(`code`,null,`gap`)])])]),e(`pre`,null,[e(`code`,null,`<div class="p-3 bg-stone-950 rounded border border-stone-700">
+  <h4 class="text-stone-200 font-bold mb-2 uppercase">Card grid checklist</h4>
+  <ul class="space-y-1 text-stone-400 list-disc pl-4">
+    <li>Set <code>display: flex</code> and <code>flex-wrap: wrap</code> on the gallery</li>
+    <li>Configure card sizing using <code>flex: 1 1 280px</code></li>
+    <li>Set a consistent gutter between cards with <code>gap: 24px</code></li>
+    <li>Use <code>margin-top: auto</code> on action buttons for bottom alignment</li>
+  </ul>
+</div>
+`)])])],-1)]]),_:1},16))}};export{d as default};

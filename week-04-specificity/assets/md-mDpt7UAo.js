@@ -1,0 +1,10 @@
+import{C as e,Ct as t,D as n,M as r,W as i,nt as a,w as o,xt as s}from"./modules/shiki-Dt8SJYFX.js";import{v as c,y as l}from"./index-D-RivEBp.js";import{t as u}from"./slidev/default--fpJTuIu.js";var d={__name:`week-04-specificity.md__slidev_7`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(i(),o(u,t(r(s(c)(s(v),6))),{default:a(()=>[...d[0]||=[e(`h1`,null,`Exercise 4: Enhancing the threat index`,-1),e(`div`,{class:`p-6 bg-stone-900 rounded border border-stone-800 mt-4`},[e(`h3`,{class:`text-amber-400 font-mono text-sm font-bold mb-3 uppercase`},`Assignment scenario`),e(`p`,{class:`text-sm text-stone-300 mb-4`},[n(` Open `),e(`code`,null,`starters/week-04/`),n(` and enhance your National Threat Index table with precision selectors, interactive states and clean specificity management. `)]),e(`div`,{class:`grid grid-cols-2 gap-4 text-xs`},[e(`div`,{class:`p-3 bg-stone-950 rounded border border-stone-700`},[e(`h4`,{class:`text-stone-200 font-bold mb-2 uppercase`},`Selector and state requirements`),e(`ul`,{class:`space-y-1 text-stone-400 list-disc pl-4`},[e(`li`,null,[n(`Use `),e(`code`,null,`tbody > tr:nth-child(even)`),n(` to automate alternating zebra stripes`)]),e(`li`,null,[n(`Implement `),e(`code`,null,`tbody > tr:hover`),n(` to illuminate table rows on mouseover`)]),e(`li`,null,[n(`Pair with `),e(`code`,null,`:focus-within`),n(` for accessible keyboard navigation`)]),e(`li`,null,[n(`Use compound selectors like `),e(`code`,null,`.threat-table .threat-critical`)])])]),e(`pre`,null,[e(`code`,null,`<div class="p-3 bg-stone-950 rounded border border-stone-700">
+  <h4 class="text-stone-200 font-bold mb-2 uppercase">Specificity debug challenge</h4>
+  <ul class="space-y-1 text-stone-400 list-disc pl-4">
+    <li>Locate the intentional specificity conflict in <code>style.css</code></li>
+    <li>Resolve the issue by balancing selector weights</li>
+    <li>Do not use <code>!important</code> to resolve the conflict</li>
+    <li>Verify the fix in browser developer tools</li>
+  </ul>
+</div>
+`)])])],-1)]]),_:1},16))}};export{d as default};
